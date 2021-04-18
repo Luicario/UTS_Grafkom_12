@@ -1,7 +1,7 @@
 # UTS_Grafkom_12
 Tempat hasil koding untuk penilaian UTS Grafkom kelompok 12
 
-Anggota kelompok
+Anggota kelompok : 
 
 Yunata Putra Gunawan      /     C14190177
 
